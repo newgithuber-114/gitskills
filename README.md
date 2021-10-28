@@ -1,4 +1,2 @@
 # gitskills
 djl
-
-
